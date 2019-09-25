@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hohyigheo.sebfaull.co.uk/sitemap.xml
